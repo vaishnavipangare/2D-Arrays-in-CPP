@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Vaishnavi Pangare
+// 25070123501
 
 #include<iostream>
 using namespace std;
@@ -106,4 +106,5 @@ cout<<"Enter equal number of rows and columns for both the matrix";
 // 4 5
 // The sum matrix is: :
 // 3 5
+
 // 7 9
