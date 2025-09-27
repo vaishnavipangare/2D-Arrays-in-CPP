@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Vaishnavi Pangare
+// 25070123501
 
 #include <iostream>
 using namespace std;
@@ -35,4 +35,5 @@ int main() {  int i, j, r = 3, c = 3;
 // 1 2 3 
 // 5 7 4 
 // 5 9 1 
+
 // The sum of diagonals is : 9
