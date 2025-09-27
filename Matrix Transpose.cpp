@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Vaishnavi Pangare
+// 25070123501
 
 #include <iostream>
 using namespace std;
@@ -38,4 +38,5 @@ for(int i = 0;i<3;i++){
 // The tranpose of matrix is:
 // 2 4 5
 // 3 5 6
+
 // 4 6 7
