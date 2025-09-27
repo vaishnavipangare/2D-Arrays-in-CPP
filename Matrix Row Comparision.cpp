@@ -42,4 +42,5 @@ int main() {
 // 6
 // Comparing elements of 1st row with 2nd row:
 // Element 1: Not Equal (1 vs 3)
+
 // Element 2: Not Equal (2 vs 4)
