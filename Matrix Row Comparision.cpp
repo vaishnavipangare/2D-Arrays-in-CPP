@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Vaishnavi Pangare
+// 25070123501
 
 #include<iostream>
 using namespace std;
@@ -44,3 +44,4 @@ int main() {
 // Element 1: Not Equal (1 vs 3)
 
 // Element 2: Not Equal (2 vs 4)
+
