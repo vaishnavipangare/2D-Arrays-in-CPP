@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Vaishnavi Pangare
+// 25070123501
 
 #include <iostream>
 using namespace std;
@@ -101,4 +101,5 @@ int main() {
 // 2 1
 // The resultant matrix is:
 // 4 2
+
 // 8 4
