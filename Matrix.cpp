@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Vaishnavi Pangare
+// 25070123501
 
 #include<iostream>
 using namespace std;
@@ -40,4 +40,5 @@ int main() {
 // The matrix elements are: 
 // 1 2 3 
 // 4 5 6 
+
 // 7 8 9
